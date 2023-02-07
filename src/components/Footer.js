@@ -1,0 +1,28 @@
+import React from 'react';
+
+
+
+const Footer = () => {
+ 
+ 
+  return (
+
+  <footer className='bg-black py-8 text-center text-white'>
+  <div className='container'>
+  <nav>
+  Real Estate Marketplace House
+  </nav>
+
+ </div>
+ 
+
+ 
+ <div class='container'>
+ Copyright &copy; 2023. All right reserved...
+ </div>
+ 
+  </footer>
+  );
+};
+
+export default Footer;
